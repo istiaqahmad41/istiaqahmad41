@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔎 About Me:
 I'm an aspiring Android developer who is passionate about building mobile applications using Native Android and Flutter. Currently, I'm focusing on mastering both platforms to create seamless and beautiful mobile experiences. <br><br>Technologies I am Learning:<br>- Native Android(Java, Kotlin)<br>- Flutter(Dart)<br>- Firebasefor Backend Integration<br>- MVVM, Clean Architecture, and UI/UX Design Principles<br>
 
 
